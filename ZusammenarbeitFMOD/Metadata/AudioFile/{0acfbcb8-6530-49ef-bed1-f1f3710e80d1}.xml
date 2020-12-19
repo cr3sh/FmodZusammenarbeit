@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.00.00">
+	<object class="AudioFile" id="{0acfbcb8-6530-49ef-bed1-f1f3710e80d1}">
+		<property name="assetPath">
+			<value>Game/SFX/level_labor_turotial_ambient1.wav</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>51.375</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{c17e8e46-b2a8-4131-8301-c552ade09bdb}</destination>
+		</relationship>
+	</object>
+</objects>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.00.00">
+	<object class="AudioFile" id="{af5487f1-7f1d-4645-ae15-373ab3ec0d4e}">
+		<property name="assetPath">
+			<value>Menu/SFXMenü/menu_AuswahlClick.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>1</value>
+		</property>
+		<property name="length">
+			<value>0.34321995464852606</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{c17e8e46-b2a8-4131-8301-c552ade09bdb}</destination>
+		</relationship>
+	</object>
+</objects>
