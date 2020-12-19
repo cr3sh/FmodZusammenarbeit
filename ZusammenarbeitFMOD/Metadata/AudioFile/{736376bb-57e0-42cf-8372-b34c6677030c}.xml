@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.00.00">
+	<object class="AudioFile" id="{736376bb-57e0-42cf-8372-b34c6677030c}">
+		<property name="assetPath">
+			<value>Game/Musik/Drums/Monster Attack/Monster Attack_Tom_Low_Chilled 2_8bars.wav</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>22.158662131519275</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{c17e8e46-b2a8-4131-8301-c552ade09bdb}</destination>
+		</relationship>
+	</object>
+</objects>

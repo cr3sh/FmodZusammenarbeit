@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.00.00">
+	<object class="AudioFile" id="{ef27bfbd-6f24-45bb-adc1-f5c963cd9e51}">
+		<property name="assetPath">
+			<value>Game/Musik/Drums/Blockbuster/Blockbuster_Toms_Mid&amp;Top_Ending.wav</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>22.158662131519275</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{c17e8e46-b2a8-4131-8301-c552ade09bdb}</destination>
+		</relationship>
+	</object>
+</objects>
