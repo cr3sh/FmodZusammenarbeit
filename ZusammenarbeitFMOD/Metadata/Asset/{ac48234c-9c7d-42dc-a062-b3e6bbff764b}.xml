@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.00.00">
+	<object class="EncodableAsset" id="{ac48234c-9c7d-42dc-a062-b3e6bbff764b}">
+		<property name="assetPath">
+			<value>Spezifisch/Max/</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{c17e8e46-b2a8-4131-8301-c552ade09bdb}</destination>
+		</relationship>
+	</object>
+</objects>
