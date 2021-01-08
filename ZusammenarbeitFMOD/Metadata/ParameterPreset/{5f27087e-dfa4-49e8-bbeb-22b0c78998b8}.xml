@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.00.00">
+	<object class="ParameterPreset" id="{5f27087e-dfa4-49e8-bbeb-22b0c78998b8}">
+		<property name="name">
+			<value>Levelintesity</value>
+		</property>
+		<relationship name="folder">
+			<destination>{e1b386a1-1494-42ba-ad6a-003885772070}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{cd7e5196-60b3-4e4e-8a88-5359d4d33b8b}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{cd7e5196-60b3-4e4e-8a88-5359d4d33b8b}">
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+	</object>
+</objects>
